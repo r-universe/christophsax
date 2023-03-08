@@ -14,9 +14,5 @@
   {
     "package": "tempdisagg",
     "oncran": true
-  },
-  {
-    "package": "tsbox",
-    "oncran": true
   }
 ]

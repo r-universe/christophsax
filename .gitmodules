@@ -23,8 +23,3 @@
 	url = https://github.com/christophsax/tempdisagg
 	shallow = true
 	registered = true
-[submodule "tsbox"]
-	path = tsbox
-	url = https://github.com/christophsax/tsbox
-	shallow = true
-	registered = true
