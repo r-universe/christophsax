@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "seasonalview"]
-	path = seasonalview
-	url = https://github.com/christophsax/seasonalview
+[submodule "dataseries"]
+	path = dataseries
+	url = https://github.com/christophsax/dataseries
 	shallow = true
 	registered = true
 [submodule "seasonal"]
@@ -13,9 +13,9 @@
 	url = https://github.com/christophsax/seasonal
 	shallow = true
 	registered = true
-[submodule "dataseries"]
-	path = dataseries
-	url = https://github.com/christophsax/dataseries
+[submodule "seasonalview"]
+	path = seasonalview
+	url = https://github.com/christophsax/seasonalview
 	shallow = true
 	registered = true
 [submodule "tempdisagg"]

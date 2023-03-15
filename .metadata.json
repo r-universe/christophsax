@@ -1,6 +1,6 @@
 [
   {
-    "package": "seasonalview",
+    "package": "dataseries",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "dataseries",
+    "package": "seasonalview",
     "oncran": true
   },
   {
