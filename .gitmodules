@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/christophsax/dataseries
-	shallow = true
-	registered = true
 [submodule "seasonal"]
 	path = seasonal
 	url = https://github.com/christophsax/seasonal
-	shallow = true
-	registered = true
 [submodule "seasonalview"]
 	path = seasonalview
 	url = https://github.com/christophsax/seasonalview
-	shallow = true
-	registered = true
 [submodule "tempdisagg"]
 	path = tempdisagg
 	url = https://github.com/christophsax/tempdisagg
-	shallow = true
-	registered = true
