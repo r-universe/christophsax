@@ -11,6 +11,3 @@
 [submodule "seasonalview"]
 	path = seasonalview
 	url = https://github.com/christophsax/seasonalview
-[submodule "tempdisagg"]
-	path = tempdisagg
-	url = https://github.com/christophsax/tempdisagg
